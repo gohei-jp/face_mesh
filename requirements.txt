@@ -2,3 +2,4 @@ opencv-python-headless==4.5.4.60
 numpy
 mediapipe
 streamlit
+streamlit_webrtc
